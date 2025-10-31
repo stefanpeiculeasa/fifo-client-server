@@ -166,27 +166,6 @@ You can change the FIFO filename or add additional configuration parameters.
 - **Issue**: Scripts not executable
 - **Solution**: Run `chmod +x server.sh client.sh`
 
-## 📝 Development
-
-### Project Structure
-
-```
-.
-├── README.md           # This file
-├── LICENSE            # License information
-├── .gitignore         # Git ignore rules
-├── config.cfg         # Configuration file
-├── server.sh          # Server implementation
-└── client.sh          # Client implementation
-```
-
-### Code Quality
-
-- **Bash Best Practices**: Uses `[[` instead of `[`, proper quoting, error checking
-- **Style**: Consistent indentation, meaningful variable names
-- **Documentation**: Inline comments explain complex logic
-- **Error Handling**: Comprehensive error checking throughout
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
@@ -203,9 +182,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Alfredo**
+**Stefan Peiculeasa**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@stefanpeiculeasa](https://github.com/stefanpeiculeasa)
 
 ## 🙏 Acknowledgments
 
